@@ -1,0 +1,15 @@
+Timothy Queva
+CS3110 Lab4
+March 19, 2021
+
+Lacking functionality:
+-new button and under File menu doesn't work yet.
+
+Limitations:
+  -As expected with a text editor, text markupts (bold, italic, fonts/font size, and highlighting) are not saved in a file.
+
+Description: This program is an "updated" version of Microsoft's basic notepad editor written in python using the tkinter GUI module.
+
+Instructions: Navigate to the correct file folder in the linux terminal.
+  1. Type the following: python3 txtProc.py
+  2. Hit ENTER
