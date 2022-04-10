@@ -1,0 +1,51 @@
+Timothy Queva
+CS3010
+March 19, 2021
+
+Visibility:
+-Core function of that being a text editor is clearly apparent by the white blank canvas and the
+"ribbon" of tools below.
+
+Constraints:
+-At this point, one constraint is an inability to right click the canvas. However, there are cut/copy/
+paste tools on the ribbon as well as the edit menu that help the user to be able to achieve those
+functionality.
+
+Feedback:
+-Buttons provide visual feedback.
+-clicking open and save also provide feedback by way of opening a new window where user can choose
+file to open or location to save canvas contents.
+
+Mapping:
+
+
+Consistent:
+-Buttons are proportional to each other.
+-Any opened window has the same icon and title.
+
+Affordance:
+-Blank canvas and blinking cursor suggests typing area.
+-Also, keyboard shortcuts for cut,copy, and paste also work here.
+-Button icons suggest their functionality
+-Trackpad scrolling works here
+
+Simplicity:
+-Program is simplistic in a light-weight program with few options.
+
+Minimize memory load:
+-Buttons provided instead of user having to memorize keyboard shortcuts for cut/copy/paste
+
+Diagnose/recover from errors:
+-No errors yet known as it is just a simple text editor.
+
+Control and freedom:
+-There are two ways to exit the program: the red "X" in the upper right corner and a quit option in
+the File menu.
+
+Flexibility:
+-Program allows user to save a file in any format that they wish.
+
+Types of help:
+-Reference under the help menu provides help inexperienced users.
+-Limitations/Troubleshooting under the help menu informs user what actions the program is unable to perform.
+-About menu items informs user of license, programmer, and program description.
